@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Globe Dion Agius Tasi Tee",
+    "price": 19.9,
+    "colours": ["black", "turqoise", "purple", "red", "teal"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "male-t-shirt-1.jpg",
+    "gender": "Men",
+    "ageGroup": "Adult",
+    "type": "T-Shirt",
+    "maxQuantity": 5
+  },
+  {
+    "name": "Globe Down Under Tee",
+    "price": 19.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "women-t-shirt-1.jpg",
+    "gender": "Women",
+    "ageGroup": "Adult",
+    "type": "T-Shirt",
+    "maxQuantity": 7
+  },
+  {
+    "name": "Rexxar Tungsten Tee",
+    "price": 9.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "male-t-shirt-1.jpg",
+    "gender": "Men",
+    "ageGroup": "Child",
+    "type": "T-Shirt",
+    "maxQuantity": 25
+  },
+  {
+    "name": "Egarmius T-Shirt",
+    "price": 19.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "male-t-shirt-1.jpg",
+    "gender": "Men",
+    "ageGroup": "Adult",
+    "type": "T-Shirt",
+    "maxQuantity": 5
+  },
+  {
+    "name": "Egarmius V-Necked T-Shirt",
+    "price": 14.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "women-t-shirt-1.jpg",
+    "gender": "Women",
+    "ageGroup": "Adult",
+    "type": "T-Shirt",
+    "maxQuantity": 3
+  },
+  {
+    "name": "Rexxar Spitfire Tee",
+    "price": 12.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "male-t-shirt-1.jpg",
+    "gender": "Men",
+    "ageGroup": "Child",
+    "type": "T-Shirt",
+    "maxQuantity": 2
+  },
+  {
+    "name": "Globe Dion Sirius Tee",
+    "price": 14.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "male-t-shirt-1.jpg",
+    "gender": "Men",
+    "ageGroup": "Adult",
+    "type": "T-Shirt",
+    "maxQuantity": 5
+  },
+  {
+    "name": "Globe Dion Sirius Agnus Tee",
+    "price": 19.9,
+    "colours": ["red", "blue", "green"],
+    "size": ["XS", "S", "M", "L", "XL", "XXL"],
+    "description": "The body is made of a fabric with a chunky feel.",
+    "image": "women-t-shirt-1.jpg",
+    "gender": "Women",
+    "ageGroup": "Adult",
+    "type": "T-Shirt",
+    "maxQuantity": 5
+  }
+]
