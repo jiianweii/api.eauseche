@@ -30,6 +30,6 @@ const Product = require("./models/productModel");
 
 const port = process.env.PORT || 3000;
 
-app.listen(port, "localhost", () => {
+app.listen(port, () => {
   console.log("Server is running");
 });
